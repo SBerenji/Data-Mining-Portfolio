@@ -1,2 +1,2 @@
-Data Mining & Machine Learning Portfolio
+# Data Mining & Machine Learning Portfolio
 This folder contains a collection of applied data-mining analyses conducted across diverse datasets. The notebooks demonstrate techniques including data preprocessing, exploratory data analysis, classification, regression, clustering, model selection, performance evaluation, and association rule mining. Each notebook includes a descriptive summary of the dataset, methodology, techniques applied, and findings.
